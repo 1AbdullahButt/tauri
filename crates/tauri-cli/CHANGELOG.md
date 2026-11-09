@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.0-alpha.7]
+
+### Dependencies
+
+- Upgraded to `tauri-bundler@3.0.0-alpha.6`
+
 ## [3.0.0-alpha.6]
 
 ### Dependencies

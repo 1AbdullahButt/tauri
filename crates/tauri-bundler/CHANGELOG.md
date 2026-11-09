@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.0-alpha.6]
+
+### Bug Fixes
+
+- [`6620118f0`](https://www.github.com/tauri-apps/tauri/commit/6620118f0fe85472abfdccea8d99fd0ec9447c3f) ([#16338](https://www.github.com/tauri-apps/tauri/pull/16338) by [@aervxa](https://www.github.com/tauri-apps/tauri/../../aervxa)) Remove outdated CEF files `libEGL.so` and `libGLESv2.so`, which are not seperate libraries since cef v152
+
 ## [3.0.0-alpha.5]
 
 ### Bug Fixes

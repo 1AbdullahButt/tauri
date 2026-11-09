@@ -4,6 +4,7 @@
     ".changes/acl-command-permissions.md",
     ".changes/android-binding-macro.md",
     ".changes/build-dir-layout.md",
+    ".changes/bundler-outdated-libraries.md",
     ".changes/bundler-webview-runtime.md",
     ".changes/cargo-build-target-env.md",
     ".changes/cef-152.3.0.md",
